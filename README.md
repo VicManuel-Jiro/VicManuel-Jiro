@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VicManuel-Jiro&rank=-?&column=-1&no-frame=true" alt="VicManuel-Jiro" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vicmanjiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Victor Manuel Jiménez Rosas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vicmanjiro/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Victor Manuel Jiménez Rosas" height="30" width="40" /></a>
 
 <!--
 **VicManuel-Jiro/VicManuel-Jiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
