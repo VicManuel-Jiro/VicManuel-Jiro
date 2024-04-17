@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm VicManuel-Jiro</h1>
 <h3 align="center">A passionate developer from México</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VicManuel-Jiro&label=Profile%20views&color=0e75b6&style=flat" alt="VicManuel-Jiro" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VicManuel-Jiro&rank=-?&column=-1
-" alt="VicManuel-Jiro" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VicManuel-Jiro&rank=-?&column=-1&no-frame=true" alt="VicManuel-Jiro" /></a> </p>
 
 
 <!--
