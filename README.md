@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm VicManuel-Jiro</h1>
-
+<h3 align="center">A passionate developer from México</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VicManuel-Jiro&label=Profile%20views&color=0e75b6&style=flat" alt="VicManuel-Jiro" /> </p>
 <!--
 **VicManuel-Jiro/VicManuel-Jiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
