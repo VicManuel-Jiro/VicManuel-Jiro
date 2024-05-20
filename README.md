@@ -12,7 +12,5 @@
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VicManuel-Jiro&show_icons=true&locale=en&layout=compact&langs_count=8" alt="VicManuel-Jiro" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VicManuel-Jiro&show_icons=true&locale=en&include_all_commits=true" alt="VicManuel-Jiro" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VicManuel-Jiro&" alt="VicManuel-Jiro" /></p>
 
