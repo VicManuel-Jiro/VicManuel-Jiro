@@ -5,7 +5,7 @@
 
 <!--<p align="left">👨‍💻 All of my projects are available at [https://VicManuel-Jiro.github.io/Portafolio/](https://VicManuel-Jiro.github.io/Portafolio/</p>-->
 <br>
-<p align="left">💬 Ask me about **backend**, **frontend**, **DBA**.</p>
+<p align="left">💬 Ask me about <strong>backend</strong>, <strong>frontend</strong>, <strong>DBA</strong>.</p>
 <br>
 <p align="left">📫 How to reach me **icvictorjimenez@gmail.com**</p>
  <br>
