@@ -2,6 +2,13 @@
 <h3 align="center">A passionate software developer from México</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VicManuel-Jiro&label=Profile%20views&color=0e75b6&style=flat" alt="VicManuel-Jiro" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VicManuel-Jiro&rank=-?&column=-1&no-frame=true" alt="VicManuel-Jiro" /></a> </p>
+
+<!--<p align="left">👨‍💻 All of my projects are available at https://jorgerenteriaa.github.io/Portafolio/</p>-->
+<br>
+<p align="left">💬 Ask me about Redes, frontend, linux, DBA.</p>
+<br>
+<p align="left">📫 How to reach me jerarenteria@gmail.com</p>
+ <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
