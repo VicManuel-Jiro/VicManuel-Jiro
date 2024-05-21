@@ -7,7 +7,7 @@
 <br>
 <p align="left">💬 Ask me about <strong>Java</strong>,<strong>Python</strong>, <strong>backend/frontend</strong>, <strong>DBA</strong>.</p>
 <br>
-<p align="left">📫 How to reach me </p><a>icvictorjimenez@gmail.com</a>
+<p align="left">📫 How to reach me <a href="icvictorjimenez@gmail.com">icvictorjimenez@gmail.com</a> </p>
  <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
