@@ -7,7 +7,7 @@
 <br>
 <p align="left">💬 Ask me about Redes, frontend, linux, DBA.</p>
 <br>
-<p align="left">📫 How to reach me jerarenteria@gmail.com</p>
+<p align="left">📫 How to reach me icvictorjimenez@gmail.com</p>
  <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
