@@ -6,7 +6,6 @@
 <!--<p align="left">👨‍💻 All of my projects are available at [https://VicManuel-Jiro.github.io/Portafolio/](https://VicManuel-Jiro.github.io/Portafolio/</p>-->
 <br>
 <p align="left">💬 Ask me about <strong>Java</strong>, <strong>Python</strong>, <strong>backend/frontend</strong>, <strong>DBA</strong>.</p>
-<br>
 <p align="left">📫 How to reach me <a href="mailto:icvictorjimenez@gmail.com">icvictorjimenez@gmail.com</a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
