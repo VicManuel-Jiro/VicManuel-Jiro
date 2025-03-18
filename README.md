@@ -40,6 +40,6 @@
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VicManuel-Jiro&show_icons=true&locale=en&layout=compact&langs_count=8" alt="VicManuel-Jiro" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VicManuel-Jiro&show_icons=true&locale=en&include_all_commits=true" alt="VicManuel-Jiro" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VicManuel-Jiro&" alt="VicManuel-Jiro" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=VicManuel-Jiro&rank=-?&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VicManuel-Jiro&rank=-?&column=-1&no-frame=true" alt="VicManuel-Jiro" /></a> </p>
 
