@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/vicmanjiro/" style="display: inline-block;" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn Jiro" align="center"/></a>
-<a href="https://raw.githubusercontent.com/VicManuel-Jiro/VicManuel-Jiro/main/CV.pdf" target="_blank" download><img align="center" src="https://raw.githubusercontent.com/VicManuel-Jiro/VicManuel-Jiro/main/botonDownloadCV.svg" alt="CV Jiro" width="120"  /></a> 
+
 </p>
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
